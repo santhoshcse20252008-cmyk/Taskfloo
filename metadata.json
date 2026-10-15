@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Task Management Application",
+  "description": "Full-featured task management web application with user authentication, Kanban boards, task CRUD, priorities, real-time activity, and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
